@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="painting1">Mona Lisa</string>
+    <string name="artist1">Leonardo da Vinci</string>
+    <string name="painting2">Starry Night</string>
+    <string name="artist2">Vincent van Gogh</string>
+    <string name="painting3">Girl with a Pearl Earring</string>
+    <string name="artist3">Johannes Vermeer</string>
+</resources>
